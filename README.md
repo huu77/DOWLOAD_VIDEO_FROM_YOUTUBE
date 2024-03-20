@@ -18,4 +18,4 @@ Tóm lại nó ok nhưng nêu xét về hiệu suất ví dụ 100 người ho�
 
 Và ở dưới này là api để ae chèn ảnh 
 
-![image](.\image.png)
+![image](image.png)
